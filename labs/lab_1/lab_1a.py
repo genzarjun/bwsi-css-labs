@@ -5,6 +5,8 @@ The first lab in the BWSI CSS course. To complete this lab, fill out the variabl
 with your name. Then, save the code, add it to the staging area, and commit it to the Git tree.
 """
 
+"""This is changing the speed"""
+
 def main():
     print("Hello World!")
 
@@ -12,7 +14,7 @@ def main():
 
     print(f"{name}, Welcome to the CSS course!")
 
-    robot_speed = 5 # m/s
+    robot_speed = 8 # m/s
 
 if __name__ == "__main__":
     main()
