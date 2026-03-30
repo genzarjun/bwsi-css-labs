@@ -13,6 +13,8 @@ def main():
 
     print(f"{name}, Welcome to the CSS course!")
 
+    robot_speed = 5 # m/s
+
 if __name__ == "__main__":
     main()
 
